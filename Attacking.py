@@ -1,3 +1,9 @@
+import socket
+import sys
+import os
+import time
+import random
+
 W = "\033[0m"
 G = '\033[32;1m'
 R = '\033[31;1m'
@@ -5,12 +11,6 @@ B = '\033[0;34m'
 Y = "\033[0;33m" 
 P = "\033[0;35m"
 C = "\033[0;36m"
-
-import socket
-import sys
-import os
-import time
-import random
 
 def main():
 
@@ -32,7 +32,7 @@ def main():
     print "# Web_IP Getter                                    ",Y+"[3]",G+"#"
     print "#########################################################"
     
-################################################################################################
+
     gg = raw_input(Y+ "Chose Number :- ")   
 
 
