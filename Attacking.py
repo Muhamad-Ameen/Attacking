@@ -18,7 +18,7 @@ def main():
     print R+"############################################################"
     print "#",P+"              [{ Info about creator }]",R+"                  #"
     print "#                                                          #"
-    print "# Creator :-",B + "[<x0l0rd0x>]","From Iraq" ,R+"                       #"
+    print "# Creator :-",B + "[<Muhamad_Ameen>]","From Iraq" ,R+"                  #"
     print "# Facebook :-",B+"https://www.facebook.com/muhamad.hamadameen/",R+"#"
     print "# Github :-",B+"https://github.com/Muhamad-Ameen",R+"              #"
     print "############################################################"
